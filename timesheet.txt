@@ -1,0 +1,6 @@
+Learning pygame and exploring music, audio modules: 4 hours
+Converting tp1 into pygame: 4 hours
+Working with hand recognition: 5 hours
+Building the main play screen and attaching the OpenCV frame: 5 hours
+
+Total: 18 hours
